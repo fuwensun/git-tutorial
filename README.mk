@@ -5,6 +5,3 @@
 # -feature-D
 # -feature-E-github
 # -fix#7
-   #7
-   # 7
-   # fix #7
