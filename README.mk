@@ -4,5 +4,3 @@
 # -feature-C
 # -feature-D
 # -feature-E-github
-# -fix#7
- -fix#8
